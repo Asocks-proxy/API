@@ -1,8 +1,8 @@
 # Asocks Proxy API
 
-Given repository currently contains a PHP script, which calls **Asocks API**. 
+Repository currently contains code examples in PHP and Go, which bring **Asocks API** into play. 
 
-Script creates a new proxy port, retrieves a list of proxy ports, and performs a check on all ports. Outputs names of the retrieved proxies.
+These examples create a new proxy port, retrieve a list of proxy addresses, and perform a check on all of them. Output names of the retrieved proxies.
 
 Please note that working with proxy ports and performing certain actions using proxy services may have legal implications.
 

@@ -28,7 +28,7 @@ Before running the client, ensure you have a valid API token for [**Asocks**](ht
 
 [![Sign Up to Asocks Proxy](https://imageup.ru/img80/4680191/asocks_gh.jpg)](https://asocks.com/c/2SII)
 
-Replace the token constant in the main function with your actual API token, which can be found in the API menu.
+Replace the token constant in the main function with your actual API token, which can be found in the Asocks API menu.
 
 ## Usage
 

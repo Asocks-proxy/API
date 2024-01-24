@@ -28,7 +28,7 @@ cd API/PHP
 
 ### Configuration
 
-Set your Asocks API key in the script:
+Set your Asocks API key in the script (located in Asocks API menu):
 
 ```
 $apiKey = 'your-api-key-here';

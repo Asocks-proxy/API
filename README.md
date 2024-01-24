@@ -2,13 +2,13 @@
 
 Repository currently contains code examples in PHP and Go, which bring **Asocks API** into play. 
 
-These examples create a new proxy port, retrieve a list of proxy addresses, and perform a check on all of them. Output names of the retrieved proxies.
+These examples create a new proxy port, retrieve a list of proxy addresses, e.t.c. Each directory contains a corresponding Readme.
 
 Please note that working with proxy ports and performing certain actions using proxy services may have legal implications.
 
 <br/><br/>
 
-To get **API Key**, sign up on [asocks.com](https://asocks.com/c/2SII). Be sure to check out the promo below to get 5GB worth of traffic for free!
+To get **API Key**, sign up to [asocks.com](https://asocks.com/c/2SII). Be sure to check out the promo below to get 5GB worth of traffic for free!
 
 <br/><br/>
 

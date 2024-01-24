@@ -1,4 +1,4 @@
-# Go Proxy Client 
+# Asocks Proxy Service Client in Go
 
 This Go Proxy Client is a simple yet powerful tool for interacting with a [**Asocks**](https://asocks.com/c/2SII) proxy service API. It provides functionalities to create proxy ports and fetch detailed information about existing proxies. This client is especially useful for developers who need to manage or utilize Asocks proxies programmatically in their applications.
 

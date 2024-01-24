@@ -8,7 +8,7 @@ Please note that working with proxy ports and performing certain actions using p
 
 <br/><br/>
 
-To get **API Key**, sign up to [asocks.com](https://asocks.com/c/2SII). Be sure to check out the promo below to get 5GB worth of traffic for free!
+To get **API Key**, sign up to [asocks.com](https://asocks.com/c/2SII). Be sure to check out the **GITASOCKS** promo below to get 5GB worth of traffic for free!
 
 <br/><br/>
 

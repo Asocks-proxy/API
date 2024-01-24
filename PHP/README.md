@@ -1,7 +1,5 @@
 # Asocks Proxy Service Client in PHP
 
-## Introduction
-
 This PHP client is designed to interact with the [**Asocks**](https://asocks.com/c/2SII) Proxy Service API. It allows developers to create and manage proxy ports, check proxy details, and validate proxy configurations. The client utilizes cURL for HTTP requests and handles JSON responses, offering a straightforward interface for managing proxies.
 
 ## Getting Started
